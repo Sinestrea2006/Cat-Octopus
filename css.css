@@ -1,0 +1,7 @@
+body{
+	background:black;
+}
+body .container {
+	margin: auto;
+	width: fit-content;
+}
